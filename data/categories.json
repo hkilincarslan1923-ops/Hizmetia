@@ -1,0 +1,35 @@
+[
+  {
+    "id": "apartman-temizligi",
+    "title": "Apartman Temizliği",
+    "description": "Apartman giriş, merdiven ve ortak alan temizliği hizmetleri. Profesyonel ekibimizle binanızı tertemiz tutuyoruz.",
+    "icon": "building",
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=300&fit=crop",
+    "count": "3.456",
+    "isActive": true,
+    "featured": true,
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "ev-temizligi",
+    "title": "Ev Temizliği",
+    "description": "Evinizin her köşesi için detaylı temizlik hizmeti. Mutfak, banyo, salon ve yatak odası temizliği.",
+    "icon": "sparkles",
+    "image": "https://images.unsplash.com/photo-1581578731548-c64695cc6952?w=400&h=300&fit=crop",
+    "count": "8.912",
+    "isActive": true,
+    "featured": true,
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "evden-eve-nakliyat",
+    "title": "Evden Eve Nakliyat",
+    "description": "Güvenli ve hızlı evden eve nakliyat hizmeti. Eşyalarınız sigortalı ve özenle taşınır.",
+    "icon": "truck",
+    "image": "https://images.unsplash.com/photo-1600518464441-9154a4dea21b?w=400&h=300&fit=crop",
+    "count": "4.567",
+    "isActive": true,
+    "featured": true,
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  }
+]

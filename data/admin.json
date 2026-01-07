@@ -1,0 +1,11 @@
+{
+  "credentials": {
+    "username": "admin",
+    "password": "Hizmetia2024!"
+  },
+  "session": {
+    "isAuthenticated": false,
+    "username": null,
+    "loginTime": null
+  }
+}
